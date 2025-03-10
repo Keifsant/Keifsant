@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  👾: Ferramentas: Spring Tool Suite, VS Code, Git, MySQL, Insomnia 
+  👾: Ferramentas: Spring Tool Suite, VS Code, Git, MySQL e Insomnia 
 </p>
 
 <p align="left">
