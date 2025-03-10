@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Java, HTML, CSS e JavaScript**
+  🤖: Linguagens: Java, HTML, CSS e JavaScript
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Spring Tool Suite, VS Code, Git, MySQL, Insomnia **
+  👾: Ferramentas: Spring Tool Suite, VS Code, Git, MySQL, Insomnia 
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  📬: Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
