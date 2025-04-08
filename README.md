@@ -67,8 +67,8 @@ Let's connect and build the future together! ✨
 <h3>🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keifsant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keifsant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keifsant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gradent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keifsant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
@@ -80,7 +80,7 @@ Let's connect and build the future together! ✨
 ###
 
 <div align="left">
-  <a href="https://discord.com/channels/@keifsant" target="Perfil Discord">
+  <a href="https://discord.gg/U35963mk" target="Perfil Discord">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="mailto:keyllafsantos1@gmail.com" title="Gmail">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
